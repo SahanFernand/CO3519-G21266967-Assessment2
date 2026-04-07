@@ -1,0 +1,15 @@
+CustomCNN | FER2013
+Test Accuracy: 59.61%
+
+              precision    recall  f1-score   support
+
+       Angry     0.5709    0.5500    0.5603       300
+        Fear     0.4808    0.2500    0.3289       300
+       Happy     0.8019    0.8233    0.8125       300
+     Neutral     0.4781    0.6900    0.5648       300
+         Sad     0.5482    0.4167    0.4735       300
+    Surprise     0.6580    0.8467    0.7405       300
+
+    accuracy                         0.5961      1800
+   macro avg     0.5897    0.5961    0.5801      1800
+weighted avg     0.5897    0.5961    0.5801      1800

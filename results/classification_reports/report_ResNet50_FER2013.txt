@@ -1,0 +1,15 @@
+ResNet50 | FER2013
+Test Accuracy: 58.39%
+
+              precision    recall  f1-score   support
+
+       Angry     0.5108    0.5500    0.5297       300
+        Fear     0.5063    0.2667    0.3493       300
+       Happy     0.7462    0.8233    0.7829       300
+     Neutral     0.5287    0.5833    0.5547       300
+         Sad     0.4398    0.4867    0.4620       300
+    Surprise     0.7323    0.7933    0.7616       300
+
+    accuracy                         0.5839      1800
+   macro avg     0.5774    0.5839    0.5734      1800
+weighted avg     0.5774    0.5839    0.5734      1800

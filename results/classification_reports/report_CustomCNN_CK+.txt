@@ -1,0 +1,15 @@
+CustomCNN | CK+
+Test Accuracy: 93.75%
+
+              precision    recall  f1-score   support
+
+       Angry     0.8889    1.0000    0.9412         8
+        Fear     0.8000    1.0000    0.8889         8
+       Happy     1.0000    0.8750    0.9333         8
+     Neutral     1.0000    0.8750    0.9333         8
+         Sad     1.0000    1.0000    1.0000         8
+    Surprise     1.0000    0.8750    0.9333         8
+
+    accuracy                         0.9375        48
+   macro avg     0.9481    0.9375    0.9383        48
+weighted avg     0.9481    0.9375    0.9383        48

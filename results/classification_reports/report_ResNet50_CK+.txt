@@ -1,0 +1,15 @@
+ResNet50 | CK+
+Test Accuracy: 95.83%
+
+              precision    recall  f1-score   support
+
+       Angry     1.0000    0.7500    0.8571         8
+        Fear     1.0000    1.0000    1.0000         8
+       Happy     1.0000    1.0000    1.0000         8
+     Neutral     0.8889    1.0000    0.9412         8
+         Sad     0.8889    1.0000    0.9412         8
+    Surprise     1.0000    1.0000    1.0000         8
+
+    accuracy                         0.9583        48
+   macro avg     0.9630    0.9583    0.9566        48
+weighted avg     0.9630    0.9583    0.9566        48
