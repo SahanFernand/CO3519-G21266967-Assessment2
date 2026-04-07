@@ -74,9 +74,3 @@ RESULTS PRODUCED
                                     CV_summary.txt has all results
 
 
-ONLINE NOTEBOOK
----------------
-  Full pipeline available on Google Colab (no local setup needed):
-  https://colab.research.google.com/drive/1L98XnaLEZG--cLtf6KARO5_3ZaOYVK9U
-
-============================================================
